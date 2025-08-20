@@ -2,7 +2,7 @@
   <img src="https://github.com/TrevisCloud/treviscloud/blob/e8d2ec92e2008a78ef48936e5532ffa68f48365e/HeroImage.jpg" alt="TREV Hero Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Trevis</h1>
+<h1 align="center">Hi there 👋 I'm Trev</h1>
 
 <p align="center">
   A Frontend Software Engineer passionate about <strong>Motion Graphics, 3D, Character Design, Animation, and UI/UX</strong>.
