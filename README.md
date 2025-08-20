@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/treviscloud/treviscloud/main/hero.jpg" alt="TREV Hero Banner" width="100%" />
+  <img src="https://github.com/TrevisCloud/treviscloud/blob/9677647a782e8788f3e47135fe74e43968c20d71/HeroImage.jpg" alt="TREV Hero Banner"  width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Trevis</h1>
