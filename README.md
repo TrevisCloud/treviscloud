@@ -5,7 +5,9 @@
 <h1 align="center">Hi there 👋 I'm Trevis</h1>
 
 <p align="center">
-  A Frontend Software Engineer passionate about <strong>Motion Graphics, 3D, Character Design, Animation, and UI/UX</strong>.
+  As a hybrid Frontend + Security Engineer, I combine creative coding and UI design with hands-on skills in cybersecurity, infrastructure, and cloud.  
+I'm equally comfortable building interactive user experiences with <strong>React and 3D tools</strong>. as I am auditing networks and securing systems with <strong>Wireshark, Nmap, and Linux</strong>.  
+Below is a breakdown of the tools, frameworks, and platforms I work with across both disciplines.
 </p>
 
 ---
@@ -17,6 +19,21 @@
 - 🌱 Constantly exploring **Unreal Engine**, **SwiftUI**, and **3D animation workflows**.
 - 💬 Ask me about creative coding, UI/UX systems, or motion design workflows.
 - ⚡ Fun fact: I love turning abstract emotions into interactive visuals.
+
+---
+
+<details>
+<summary>🧰 Languages & Frameworks</summary>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+</p>
+
+</details>
 
 ---
 
