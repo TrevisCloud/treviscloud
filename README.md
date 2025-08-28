@@ -53,8 +53,17 @@ Below is a breakdown of the tools, frameworks, and platforms I work with across 
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20AE-9999FF?style=flat&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobe-xd&logoColor=FF61F6"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cinema%204D-011A6D?style=flat&logo=maxon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZBrush-000000?style=flat&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Marvelous%20Designer-FFD700?style=flat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/3D%20Coat-555555?style=flat"/>
+  <img src="https://img.shields.io/badge/3DXMarkz-FF7C00?style=flat"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white"/>
 </p>
 
 </details>
@@ -68,6 +77,11 @@ Below is a breakdown of the tools, frameworks, and platforms I work with across 
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-ff6f00?style=flat&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-040404?style=flat&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat&logo=vault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-0881E4?style=flat&logo=cisco&logoColor=white"/>
 </p>
 
 </details>
@@ -96,25 +110,10 @@ Below is a breakdown of the tools, frameworks, and platforms I work with across 
 
 </details>
 
-<p align="left">
-  <b>Languages & Frameworks:</b><br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-</p>
+---
 
-<p align="left">
-  <b>Design & Motion:</b><br/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_AE-9999FF?style=flat&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=flat&logo=adobe-xd&logoColor=FF61F6"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white"/>
-</p>
+## 🏅 Certifications
 
-<p align="left">
-  <b>Tools & Services:</b><br/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoCo
+- CompTIA Security+ (In Progress)
+- Cisco CyberOps Associate
+- AWS Certified Cloud Practitioner
