@@ -5,20 +5,16 @@
 <h1 align="center">Hi there 👋 I'm Trev</h1>
 
 <p align="center">
-  As a hybrid Frontend + Security Engineer, I combine creative coding and UI design with hands-on skills in cybersecurity, infrastructure, and cloud.  
-I'm equally comfortable building interactive user experiences with <strong>React and 3D tools</strong>. as I am auditing networks and securing systems with <strong>Wireshark, Nmap, and Linux</strong>.  
-Below is a breakdown of the tools, frameworks, and platforms I work with across both disciplines.
+ A Frontend + Security Engineer passionate about <strong>Motion Graphics, Character Design, 3D, Animation, and Cybersecurity</strong>.
 </p>
 
 ---
 
-## 🧠 About Me
+## 💼 My Technical Focus
 
-- 🎨 I merge code and creativity to build expressive, interactive digital experiences.
-- 🔭 Currently working on projects using **React**, **Next.js**, **Blender**, and **Rive**.
-- 🌱 Constantly exploring **Unreal Engine**, **SwiftUI**, and **3D animation workflows**.
-- 💬 Ask me about creative coding, UI/UX systems, or motion design workflows.
-- ⚡ Fun fact: I love turning abstract emotions into interactive visuals.
+As a hybrid Frontend + Security Engineer, I combine creative coding and UI design with hands-on skills in cybersecurity, infrastructure, and cloud.  
+I'm equally comfortable building expressive user interfaces with **React** and **3D animation tools** as I am auditing networks and securing systems using **Linux, Packet Tracer, and Wireshark**.  
+Below is a breakdown of the tools and technologies I use across both disciplines.
 
 ---
 
@@ -62,7 +58,7 @@ Below is a breakdown of the tools, frameworks, and platforms I work with across 
   <img src="https://img.shields.io/badge/ZBrush-000000?style=flat&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Marvelous%20Designer-FFD700?style=flat&logoColor=black"/>
   <img src="https://img.shields.io/badge/3D%20Coat-555555?style=flat"/>
-  <img src="https://img.shields.io/badge/3DXMarkz-FF7C00?style=flat"/>
+  <img src="https://img.shields.io/badge/3ds%Max-FF7C00?style=flat"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white"/>
 </p>
 
@@ -115,5 +111,24 @@ Below is a breakdown of the tools, frameworks, and platforms I work with across 
 ## 🏅 Certifications
 
 - CompTIA Security+ (In Progress)
-- Cisco CyberOps Associate
-- AWS Certified Cloud Practitioner
+- Cisco CyberOps Associate (In Progress)
+- AWS Certified Cloud Practitioner (In Progress)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=treviscloud&theme=midnight-purple&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=treviscloud&theme=midnight-purple&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treviscloud&layout=compact&theme=midnight-purple&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=treviscloud&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</p>
+
+<!-- Designed with ♥️ by Trevis — Frontend & Security Engineer | Updated for Recruiter Readability -->
