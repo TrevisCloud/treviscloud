@@ -57,8 +57,7 @@ Below is a breakdown of the tools and technologies I use across both disciplines
   <img src="https://img.shields.io/badge/Cinema%204D-011A6D?style=flat&logo=maxon&logoColor=white"/>
   <img src="https://img.shields.io/badge/ZBrush-000000?style=flat&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Marvelous%20Designer-FFD700?style=flat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/3D%20Coat-555555?style=flat"/>
-  <img src="https://img.shields.io/badge/3ds%Max-FF7C00?style=flat"/>
+  <img src="https://img.shields.io/badge/3dsMax-FF7C00?style=flat"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white"/>
 </p>
 
