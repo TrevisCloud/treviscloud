@@ -14,7 +14,7 @@
 
 As a hybrid Frontend + Security Engineer, I combine creative coding and UI design with hands-on skills in cybersecurity, infrastructure, and cloud.  
 I'm equally comfortable building expressive user interfaces with **React** and **3D animation tools** as I am auditing networks and securing systems using **Linux, Packet Tracer, and Wireshark**.  
-Below is a breakdown of the tools and technologies I use across both disciplines.....
+Below is a breakdown of the tools and technologies I use across both disciplines.
 
 ---
 
