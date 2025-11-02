@@ -98,8 +98,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=treviscloud&show_icons=true&hide_border=true&title_color=6294E7&text_color=6294E7&icon_color=2D456C&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=treviscloud&hide_border=true&ring=2D456C&fire=2D456C&currStreakLabel=2D456C&background=00000000&stroke=2D456C&sideNums=2D456C&sideLabels=2D456C" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=treviscloud&show_icons=true&hide_border=true&title_color=6294E7&text_color=6294E7&icon_color=6294E7&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=treviscloud&hide_border=true&ring=6294E7&fire=2D456C&currStreakLabel=2D456C&background=00000000&stroke=2D456C&sideNums=2D456C&sideLabels=2D456C" width="48%" />
 </p>
 
 <p align="center">
