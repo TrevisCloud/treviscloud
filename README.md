@@ -98,8 +98,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=treviscloud&theme=midnight-purple&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=treviscloud&theme=midnight-purple&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=treviscloud&show_icons=true&hide_border=true&title_color=2D456C&text_color=2D456C&icon_color=2D456C&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=treviscloud&hide_border=true&ring=2D456C&fire=2D456C&currStreakLabel=2D456C&background=00000000&stroke=2D456C&sideNums=2D456C&sideLabels=2D456C" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treviscloud&layout=compact&hide_border=true&title_color=2D456C&text_color=2D456C&bg_color=00000000" width="48%" />
 </p>
 
 ---
@@ -109,3 +113,17 @@
 </p>
 
 <!-- Created by Trevis | Frontend & Security Engineer -->
+
+
+
+
+
+
+<svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <rect width="100%" height="100" fill="#2D456C"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="28" font-family="Arial, sans-serif"
+        fill="white">
+    Code in Motion. Networks in Sync.
+  </text>
+</svg>
