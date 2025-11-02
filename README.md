@@ -108,11 +108,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=treviscloud&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</p>
-
-<!-- Created by Trevis | Frontend & Security Engineer -->
 
 
 
