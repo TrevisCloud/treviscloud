@@ -90,7 +90,7 @@
 
 ## 🚀 Featured Projects
 
-### [treviscloud](https://github.com/treviscloud/treviscloud)
+### [treviscloud](https://treviscloud.dev/)
 > 🧪 Portfolio lab & creative playground. Includes experimental UI components, security tooling, and animated layouts.
 
 ---
