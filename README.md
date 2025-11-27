@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=1200&pause=900&center=true&vCenter=true&width=500&lines=Hey+there;Hey+dort;Hola;Salut"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2500&pause=900&center=true&vCenter=true&width=500&lines=Hey+there;Hey+dort;Hola;Salut"
     alt="Greeting animation"
   />
 </p>
