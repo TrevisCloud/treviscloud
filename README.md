@@ -133,9 +133,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=treviscloud&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
   <em>Code In Motion. Networks In Sync.</em>
 </p>
