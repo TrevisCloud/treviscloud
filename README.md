@@ -4,12 +4,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=800&pause=700&center=true&vCenter=true&width=600&lines=Hey+there;Hey+dort;Hola;Salut"
-    alt="Animated greeting: Hey there, Hey dort, Hola, Salut"
-/>
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=1100&pause=900&center=true&vCenter=true&width=500&lines=Hey+there;Hey+dort;Hola;Salut;I'm+Trev&cursor=%7C"
+    alt="Greeting animation then I'm Trev"
+  />
 </p>
-
-<h1 align="center">👋 I'm Trevis</h1>
 
 <p align="center">
   <strong>Frontend + Security Engineer</strong> crafting digital experiences where <em>creativity meets connectivity</em>.
