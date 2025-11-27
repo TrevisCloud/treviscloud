@@ -4,9 +4,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=1100&pause=900&center=true&vCenter=true&width=500&lines=Hey+there;Hey+dort;Hola;Salut;I'm+Trev&cursor=%7C"
-    alt="Greeting animation then I'm Trev"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=1100&pause=900&center=true&vCenter=true&width=500&lines=Hey+there;Hey+dort;Hola;Salut"
+    alt="Greeting animation"
   />
+</p>
+
+<p align="center">
+  <strong style="font-size: 32px;">I’m Trev</strong>
 </p>
 
 <p align="center">
