@@ -10,22 +10,22 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 32px;">I’m Trev</strong>
+  <strong style="font-size: 64px;">I’m Trev</strong>
 </p>
 
 <p align="center">
-  <strong>Frontend + Security Engineer</strong> crafting digital experiences where <em>creativity meets connectivity</em>.
+  <strong>Full-Stack Engineer</strong> blending <em>design, motion, and engineering</em> into seamless digital experiences.
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 🎨 I merge code and creativity to build expressive, interactive digital experiences.
-- ⚙️ Currently working on projects using React, Next.js, Blender, and Rive.
-- 🔐 Constantly exploring Unreal Engine, SwiftUI, and cybersecurity workflows.
-- 🔍 Ask me about creative coding, secure systems, and 3D interface design.
-- 🐾 Fun fact: I often turn abstract emotions into motion-based interfaces.
+- 🚀 I build full-stack applications where UI, motion, and backend logic work together naturally.
+- ⚙️ Working with **Next.js, Vite, React Native, Node.js, Supabase, and AWS** across various projects.
+- 🎨 Bringing ideas to life through animation, expressive interfaces, and 3D concepts.
+- 🔐 Exploring networking and security fundamentals to strengthen system reliability.
+- 💭 I like turning abstract ideas into real, interactive, and thoughtful user experiences.
 
 ---
 
