@@ -4,17 +4,24 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=2500&pause=900&center=true&vCenter=true&width=500&lines=Hey+there;Hey+dort;Hola;Salut"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=900&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B;Hallo+%F0%9F%87%A9%F0%9F%87%AA;Hola+%F0%9F%87%AA%F0%9F%87%B8;Salut+%F0%9F%87%AB%F0%9F%87%B7;Ciao+%F0%9F%87%AE%F0%9F%87%B9"
     alt="Greeting animation"
   />
 </p>
 
-<h1 align="center">
-  <strong style="font-size: 164px;">I’m Trev</strong>
-</h1>
+<h1 align="center">I'm Trev</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer</strong> blending <em>design, motion, and engineering</em> into seamless digital experiences.
+</p>
+
+<p align="center">
+  <a href="https://treviscloud.dev">
+    <img src="https://img.shields.io/badge/Portfolio-treviscloud.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/trevis-alexander">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -26,16 +33,6 @@
 - 🎨 Bringing ideas to life through animation, expressive interfaces, and 3D concepts.
 - 🔐 Exploring networking and security fundamentals to strengthen system reliability.
 - 💭 I like turning abstract ideas into real, interactive, and thoughtful user experiences.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/trevis-alexander" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -104,11 +101,44 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### [treviscloud](https://treviscloud.dev/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrevisCloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TrevisCloud&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165" />
+</p>
 
-> 🧪 Personal portfolio, playground, and design lab.  
-> Blends motion, UI/UX systems, and secure full-stack components.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisCloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">treviscloud.dev</h3>
+      <p align="center">
+        <a href="https://treviscloud.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE-Visit%20Site-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
+        </a>
+      </p>
+      <p align="center">
+        Personal portfolio, playground, and design lab.<br/>
+        Blends motion, UI/UX systems, and secure full-stack components.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TrevisCloud&style=for-the-badge&color=0D1117&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>Code In Motion. Networks In Sync.</em>
+</p>
