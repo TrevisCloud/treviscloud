@@ -4,9 +4,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=1200&center=true&vCenter=true&width=600&lines=Hey+there;Hey+dort;Hola;Salut"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=800&center=true&vCenter=true&width=600&lines=Hey+there;Hey+dort;Hola;Salut"
     alt="Animated greeting: Hey there, Hey dort, Hola, Salut"
 />
+👋 I'm Trevis
 </p>
 
 <h1 align="center">Hi there 👋 I'm Trevis</h1>
