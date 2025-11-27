@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 64px;">I’m Trev</strong>
+  <strong style="font-size: 164px;">I’m Trev</strong>
 </p>
 
 <p align="center">
