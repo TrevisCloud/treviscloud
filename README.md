@@ -6,9 +6,7 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=800&pause=700&center=true&vCenter=true&width=600&lines=Hey+there;Hey+dort;Hola;Salut"
     alt="Animated greeting: Hey there, Hey dort, Hola, Salut"
-
 />
-
 </p>
 
 <h1 align="center">👋 I'm Trevis</h1>
