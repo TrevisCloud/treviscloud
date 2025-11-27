@@ -79,24 +79,26 @@
 </details>
 
 <details>
-<summary>🛡️ Security & Infrastructure</summary>
+<summary>🛡️ Security, Networking & Infrastructure</summary>
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-5A4FCF?style=flat&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Packet%20Tracer-0881E4?style=flat&logo=cisco&logoColor=white"/>
+
 </p>
 </details>
 
 <details>
 <summary>☁️ Cloud & DevOps</summary>
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 </details>
 
@@ -106,6 +108,7 @@
 
 ### [treviscloud](https://treviscloud.dev/)
 
-> 🧪 Portfolio lab & creative playground. Includes experimental UI components, security tooling, and animated layouts.
+> 🧪 Personal portfolio, playground, and design lab.  
+> Blends motion, UI/UX systems, and secure full-stack components.
 
 ---
