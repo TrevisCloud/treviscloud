@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://treviscloud.dev">
-    <img src="https://img.shields.io/badge/Portfolio-treviscloud.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/treviscloud">
+    <img src="https://img.shields.io/badge/Profile-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://linkedin.com/in/trevis-alexander">
+  <a href="https://www.linkedin.com/in/treviscloud">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -104,12 +104,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrevisCloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TrevisCloud&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=treviscloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=treviscloud&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevisCloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treviscloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
@@ -136,7 +136,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TrevisCloud&style=for-the-badge&color=0D1117&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=treviscloud&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
