@@ -16,9 +16,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/treviscloud">
-    <img src="https://img.shields.io/badge/Profile-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
   <a href="https://www.linkedin.com/in/treviscloud">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
