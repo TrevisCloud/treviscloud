@@ -2,10 +2,6 @@
   <img src="https://github.com/TrevisCloud/treviscloud/blob/94739b8356d06e8189a08d579ed1cd039df0bcef/assets/LinkedIncover.png" alt="Code In Motion. Networks In Sync." width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/hello.svg" alt="Hey there • Hey dort • Hola • Salut" />
-</p>
-
 <h1 align="center">Hi there 👋 I'm Trevis</h1>
 
 <p align="center">
