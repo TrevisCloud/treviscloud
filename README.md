@@ -9,9 +9,9 @@
   />
 </p>
 
-<p align="center">
+<h1 align="center">
   <strong style="font-size: 164px;">I’m Trev</strong>
-</p>
+</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer</strong> blending <em>design, motion, and engineering</em> into seamless digital experiences.
