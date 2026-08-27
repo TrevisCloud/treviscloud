@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TrevisCloud/treviscloud/blob/94739b8356d06e8189a08d579ed1cd039df0bcef/assets/LinkedIncover.png" alt="Code In Motion. Networks In Sync." width="100%" />
+  <img src="https://github.com/TrevisCloud/treviscloud/blob/bd448e42a8baa3d6449df4d022f4d0decd553194/assets/LinkedIn%20Cover%202027.png" alt="Code In Motion. Networks In Sync." width="100%" />
 </p>
 
 <p align="center">
