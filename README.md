@@ -29,7 +29,7 @@
 - ⚙️ Working with **Next.js, Vite, React Native, Node.js, Supabase, and AWS** across various projects.
 - 🎨 Bringing ideas to life through animation, expressive interfaces, and 3D concepts.
 - 🔐 Exploring networking and security fundamentals to strengthen system reliability.
-- 💭 I like turning abstract ideas into real, interactive, and thoughtful user experiences
+- 💭 I like turning abstract ideas into real, interactive, and thoughtful user experiences.
 
 ---
 
